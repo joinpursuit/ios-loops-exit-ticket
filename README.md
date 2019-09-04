@@ -26,7 +26,7 @@ for number in 4..<8{
 
 print(myNum)
 ```
-Answer # 23
+Answer = 23
 
 ***
 ## Question 2
@@ -60,7 +60,7 @@ for l in 1...100 where _ < 101 {
     print(l)
 }
 ```
-Answer : B,C
+Answer = B,C
 ***
 ## Question 3
 
@@ -73,7 +73,7 @@ for _ in 1...10{
     }
 }
 ```
-Answer= 100 times
+Answer = 100 times
 ***
 ## Question 4
 
@@ -118,5 +118,5 @@ while t == t{
     t += 1
 }
 ```
-Answer= A, D
+Answer = A, D
 ***
